@@ -1,0 +1,10 @@
+ create table ACCOUNT(
+    -> Accno int(15) NOT NULL Primary Key,
+    -> Name varchar(25) Not Null,
+    -> Age int(5) Not Null,
+    -> occu varchar(15) not null,
+    -> Address varchar(50) not null,
+    -> Mob int(11) not null,
+    -> Aadharno int(16),
+    -> amt double(20,5),
+    -> Acctype varchar(15) not null);
