@@ -1,0 +1,4 @@
+create table amt(
+    -> Accno int(15),
+    -> Amtdeposit double(20,5),
+    -> month varchar(15) not null);
