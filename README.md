@@ -5,7 +5,7 @@ The objective of the software project is to develop a computerized MIS to automa
 
 #Technologies Used:
 
-. Microsoft Windows® 10 as Operating System.
+<td>. Microsoft Windows® 10 as Operating System.</td>
 . Python 3 as Front-end Development environment.
 . MySQL as Back-end Sever with Database for Testing.
 . Python – mysql connector : for database connectivity
